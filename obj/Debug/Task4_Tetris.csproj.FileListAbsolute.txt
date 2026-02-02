@@ -1,0 +1,8 @@
+D:\GitHubСlones\Task4_Tetris\bin\Debug\Task5_Tetris.exe.config
+D:\GitHubСlones\Task4_Tetris\bin\Debug\Task5_Tetris.exe
+D:\GitHubСlones\Task4_Tetris\bin\Debug\Task5_Tetris.pdb
+D:\GitHubСlones\Task4_Tetris\obj\Debug\Task4_Tetris.csproj.AssemblyReference.cache
+D:\GitHubСlones\Task4_Tetris\obj\Debug\Task5_Tetris.exe.config
+D:\GitHubСlones\Task4_Tetris\obj\Debug\Task4_Tetris.csproj.CoreCompileInputs.cache
+D:\GitHubСlones\Task4_Tetris\obj\Debug\Task5_Tetris.exe
+D:\GitHubСlones\Task4_Tetris\obj\Debug\Task5_Tetris.pdb
